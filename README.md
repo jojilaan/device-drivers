@@ -38,7 +38,7 @@ MEMS pressure sensor: 260-1260 hPa absolute digital output barometer: [LPS25H](h
 Sensehat pinout: [Sensehat pinout](https://pinout.xyz/pinout/sense_hat)
 
 
-## sensehat source code
+## Sensehat source code
 
 Python library: [Sensehat library](https://github.com/RPi-Distro/python-sense-hat) <br/>
 C Example code: [Sensehat library](https://github.com/davebm1/c-sense-hat) <br/>
