@@ -1,4 +1,6 @@
-# Hardware Datasheet sensehat
+# Device drivers 
+Following sources and documentation is for the Device drivers course.
+## Hardware Datasheet sensehat
 https://www.raspberrypi.org/documentation/hardware/sense-hat/images/Sense-HAT-V1_0.pdf
 
 8x8 RGB LED matrix -> aangestuurd door LED2472G -> aangestuurd door de ATTINY88 vai SDI ( Serial Digital Interface ( Zoek nog even een mooie datasheet ) <br/>
