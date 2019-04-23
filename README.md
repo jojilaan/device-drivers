@@ -13,7 +13,8 @@ SKRHABE010 is de joystick
 
 
 
-##Communicatie protocollen:
+## Communicatie protocollen
+
 SDI ( Serial Digital Interface )
 I2C ( Inter-intergrated Circuit )
 
