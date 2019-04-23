@@ -18,11 +18,11 @@ SDI ( Serial Digital Interface )
 I2C ( Inter-intergrated Circuit )
 
 # Datasheet:
-[LED2472G](https://www.st.com/resource/en/datasheet/led2472g.pdf) <br/>
-[CAT24C32WI-GT3](https://nl.mouser.com/datasheetI/2/308/CAT24C32-D-111607.pdf) <br/>
-[HTS221](https://www.st.com/resource/en/datasheet/hts221.pdf) <br/>
-[LSM9DS1](https://www.st.com/resource/en/datasheet/DM00103319.pdf) <br/>
-[LPS25H](https://www.st.com/resource/en/datasheet/dm00066332.pdf) <br/>
+24-bit shift register designed for LED panel: [LED2472G](https://www.st.com/resource/en/datasheet/led2472g.pdf) <br/>
+EEPROM Serial 32-Kb I2C: [CAT24C32WI-GT3](https://www.onsemi.com/pub/Collateral/CAT24C32-D.PDF) <br/>
+Capacitive digital sensor for relative humidity and temperature: [HTS221](https://www.st.com/resource/en/datasheet/hts221.pdf) <br/>
+iNEMO inertial module: 3D accelerometer, 3D gyroscope, 3D magnetometer: [LSM9DS1](https://www.st.com/resource/en/datasheet/DM00103319.pdf) <br/>
+MEMS pressure sensor: 260-1260 hPa absolute digital output barometer: [LPS25H](https://www.st.com/resource/en/datasheet/dm00066332.pdf) <br/>
 
 5-weg joystick
 
