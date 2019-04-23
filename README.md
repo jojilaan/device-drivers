@@ -1,12 +1,12 @@
 # Hardware Datasheet sensehat
 https://www.raspberrypi.org/documentation/hardware/sense-hat/images/Sense-HAT-V1_0.pdf
 
-8x8 RGB LED matrix -> aangestuurd door LED2472G -> aangestuurd door de ATTINY88 vai SDI ( Serial Digital Interface ( Zoek nog even een mooie datasheet ) <br \>
-CAT24C32WI-GT3 -> 32kb EEPROM -> wordt aangestuurd via I2C. <br \>
-HTS221 is een digitala sensor voor luchtvochtigheid en temperatuur <br \>
-LED2472G is een 24-bit shift register for LED panels. <br \>
-LSM9DS1 beschikt over een 3D digitale lineare acceleratie sensor, 3D digital magnetic sensor, 3D Gyroscoop. <br \>
-LPS25H is een ultro compacte druksensor ( barometrische druk ) <br \>
+8x8 RGB LED matrix -> aangestuurd door LED2472G -> aangestuurd door de ATTINY88 vai SDI ( Serial Digital Interface ( Zoek nog even een mooie datasheet ) <br/>
+CAT24C32WI-GT3 -> 32kb EEPROM -> wordt aangestuurd via I2C. <br/>
+HTS221 is een digitala sensor voor luchtvochtigheid en temperatuur <br/>
+LED2472G is een 24-bit shift register for LED panels. <br/>
+LSM9DS1 beschikt over een 3D digitale lineare acceleratie sensor, 3D digital magnetic sensor, 3D Gyroscoop. <br/>
+LPS25H is een ultro compacte druksensor ( barometrische druk ) <br/>
 SKRHABE010 is de joystick <br \>
 
 
