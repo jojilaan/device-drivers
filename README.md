@@ -7,17 +7,17 @@ HTS221 is een digitala sensor voor luchtvochtigheid en temperatuur <br/>
 LED2472G is een 24-bit shift register for LED panels. <br/>
 LSM9DS1 beschikt over een 3D digitale lineare acceleratie sensor, 3D digital magnetic sensor, 3D Gyroscoop. <br/>
 LPS25H is een ultro compacte druksensor ( barometrische druk ) <br/>
-SKRHABE010 is de joystick <br \>
+SKRHABE010 is de joystick 
 
 
 
 
 
-Communicatie protocollen:
+##Communicatie protocollen:
 SDI ( Serial Digital Interface )
 I2C ( Inter-intergrated Circuit )
 
-# Datasheet:
+## Datasheet:
 24-bit shift register designed for LED panel: [LED2472G](https://www.st.com/resource/en/datasheet/led2472g.pdf) <br/>
 EEPROM Serial 32-Kb I2C: [CAT24C32WI-GT3](https://www.onsemi.com/pub/Collateral/CAT24C32-D.PDF) <br/>
 Capacitive digital sensor for relative humidity and temperature: [HTS221](https://www.st.com/resource/en/datasheet/hts221.pdf) <br/>
@@ -26,7 +26,7 @@ MEMS pressure sensor: 260-1260 hPa absolute digital output barometer: [LPS25H](h
 
 5-weg joystick
 
-#Sensoren
+## Sensoren
 +Gyroscoop
 +Accelerometer
 +Magnetometer
