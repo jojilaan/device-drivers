@@ -26,12 +26,12 @@ MEMS pressure sensor: 260-1260 hPa absolute digital output barometer: [LPS25H](h
 5-weg joystick
 
 ## Sensoren
-+Gyroscoop
-+Accelerometer
-+Magnetometer
-+Temperatuur
-+Barometrische druk
-+Luchtvochtigheid
++ Gyroscoop
++ Accelerometer
++ Magnetometer
++ Temperatuur
++ Barometrische druk
++ Luchtvochtigheid
 
 ## Pinout Raspi + sensehat
 
