@@ -18,11 +18,11 @@ SDI ( Serial Digital Interface )
 I2C ( Inter-intergrated Circuit )
 
 # Datasheet:
-[LED2472G](https://www.st.com/resource/en/datasheet/led2472g.pdf)
-[CAT24C32WI-GT3](https://nl.mouser.com/datasheetI/2/308/CAT24C32-D-111607.pdf)
-[HTS221](https://www.st.com/resource/en/datasheet/hts221.pdf)
-[LSM9DS1](https://www.st.com/resource/en/datasheet/DM00103319.pdf)
-[LPS25H](https://www.st.com/resource/en/datasheet/dm00066332.pdf)
+[LED2472G](https://www.st.com/resource/en/datasheet/led2472g.pdf) <br/>
+[CAT24C32WI-GT3](https://nl.mouser.com/datasheetI/2/308/CAT24C32-D-111607.pdf) <br/>
+[HTS221](https://www.st.com/resource/en/datasheet/hts221.pdf) <br/>
+[LSM9DS1](https://www.st.com/resource/en/datasheet/DM00103319.pdf) <br/>
+[LPS25H](https://www.st.com/resource/en/datasheet/dm00066332.pdf) <br/>
 
 5-weg joystick
 
