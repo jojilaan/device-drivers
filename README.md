@@ -41,3 +41,5 @@ Sensehat pinout: [Sensehat pinout](https://pinout.xyz/pinout/sense_hat)
 ## sensehat source code
 
 Python library [Sensehat library](https://github.com/RPi-Distro/python-sense-hat)
+C library [Sensehat library](https://github.com/davebm1/c-sense-hat)
+C Source Code [Source code](https://github.com/moshegottlieb/libsense)
