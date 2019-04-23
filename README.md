@@ -10,15 +10,12 @@ LPS25H is een ultro compacte druksensor ( barometrische druk ) <br/>
 SKRHABE010 is de joystick 
 
 
-
-
-
 ## Communicatie protocollen
 
 SDI ( Serial Digital Interface )
 I2C ( Inter-intergrated Circuit )
 
-## Datasheet:
+## Datasheet
 24-bit shift register designed for LED panel: [LED2472G](https://www.st.com/resource/en/datasheet/led2472g.pdf) <br/>
 EEPROM Serial 32-Kb I2C: [CAT24C32WI-GT3](https://www.onsemi.com/pub/Collateral/CAT24C32-D.PDF) <br/>
 Capacitive digital sensor for relative humidity and temperature: [HTS221](https://www.st.com/resource/en/datasheet/hts221.pdf) <br/>
@@ -34,3 +31,12 @@ MEMS pressure sensor: 260-1260 hPa absolute digital output barometer: [LPS25H](h
 +Temperatuur
 +Barometrische druk
 +Luchtvochtigheid
+
+## Pinout Raspi + sensehat
+
+Sensehat pinout: [Sensehat pinout](https://pinout.xyz/pinout/sense_hat)
+
+
+## sensehat source code
+
+Python library [Sensehat library](https://github.com/RPi-Distro/python-sense-hat)
