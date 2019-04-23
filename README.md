@@ -21,6 +21,7 @@ EEPROM Serial 32-Kb I2C: [CAT24C32WI-GT3](https://www.onsemi.com/pub/Collateral/
 Capacitive digital sensor for relative humidity and temperature: [HTS221](https://www.st.com/resource/en/datasheet/hts221.pdf) <br/>
 iNEMO inertial module: 3D accelerometer, 3D gyroscope, 3D magnetometer: [LSM9DS1](https://www.st.com/resource/en/datasheet/DM00103319.pdf) <br/>
 MEMS pressure sensor: 260-1260 hPa absolute digital output barometer: [LPS25H](https://www.st.com/resource/en/datasheet/dm00066332.pdf) <br/>
+8-bit Microcontroller with 4/8K Bytes: [ATTINY88](http://ww1.microchip.com/downloads/en/DeviceDoc/doc8008.pdf)
 
 5-weg joystick
 
